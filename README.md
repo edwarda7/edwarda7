@@ -28,7 +28,7 @@ My technical expertise includes:
 - Back-end: Django / Django Rest / Flask
 - Machine Learning: NumPy, Keras, Pandas, TensorFlow, Scikit-learn
 - Database: DynamoDB / PostgreSQL / MySQL / MongoDB
-- Could Platforms & Services: AWS / Heroku / GCP / Azure
+- Could Platforms & Services: AWS / Heroku / GCP
 - Architecture & Storage Solutions/Migrations/Automation/CI/CD
 - Experienced in integration of third-party API and plugins.
 - Project management & issue tracking tools: JIRA, Asana, Trello.
