@@ -15,3 +15,11 @@
 </p>
 
 <br />
+
+# Hello and Welcome!
+
+I'm an expert Python developer who knows Python, Django and other technologies as well.
+
+When I was 13 years old, I started learning programming, and so far, I've been focusing on Python and relevant technologies.
+
+In a nutshell, I can serve any Python related technology.
