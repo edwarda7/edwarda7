@@ -23,3 +23,13 @@ I'm an expert Python developer who knows Python, Django and other technologies a
 When I was 13 years old, I started learning programming, and so far, I've been focusing on Python and relevant technologies.
 
 In a nutshell, I can serve any Python related technology.
+
+My technical expertise includes:
+- Back-end: Django / Django Rest / Flask / Serverless
+- Machine Learning: NumPy, Keras, Pandas, TensorFlow, Scikit-learn
+- Database: DynamoDB / PostgreSQL / MySQL / MongoDB
+- Could Platforms & Services: AWS / Heroku / GCP / Azure
+- Architecture & Storage Solutions/Migrations/Automation/CI/CD
+- Experienced in integration of third-party API and plugins.
+- Project management & issue tracking tools: JIRA, Asana, Trello.
+- Version control software: GitHub, GitLab, Bitbucket
