@@ -18,13 +18,14 @@
 
 Hello and Welcome!
 
-I'm an expert Python developer who knows Python, Django and other technologies as well.
+I'm an expert full stack developer who knows Python, Django, JavaScript, React, Redux, and other technologies as well.
 
-When I was 13 years old, I started learning programming, and so far, I've been focusing on Python and relevant technologies.
+When I was 13 years old, I started learning programming, and so far, I've been focusing on web development and relevant technologies.
 
-In a nutshell, I can serve any Python related technology.
+In a nutshell, I can develop any web project related technologies.
 
 My technical expertise includes:
+- Front-End: React, Vue.js
 - Back-end: Django / Django Rest / Flask
 - Machine Learning: NumPy, Keras, Pandas, TensorFlow, Scikit-learn
 - Database: DynamoDB / PostgreSQL / MySQL / MongoDB
