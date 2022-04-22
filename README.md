@@ -1,4 +1,4 @@
-<h1 align="center"> Certified Python Developer
+<h1 align="center"> Certified JavaScript/React, Python/Django Developer
 </h1>
 
 <p align="center">
