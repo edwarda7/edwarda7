@@ -1,4 +1,4 @@
-<h1 align="center"> Certified JavaScript/React, Python/Django Developer
+<h1 align="center"> Certified Python/Django Developer
 </h1>
 
 <p align="center">
@@ -18,14 +18,13 @@
 
 Hello and Welcome!
 
-I'm an expert full stack developer who knows Python, Django, JavaScript, React, Redux, and other technologies as well.
+I'm an expert full stack developer who mastered Python, Django and other technologies as well.
 
-When I was 13 years old, I started learning programming, and so far, I've been focusing on web development and relevant technologies.
+When I was 13 years old, I started learning programming, and so far, I've been focusing on Python development and relevant technologies.
 
 In a nutshell, I can develop any web project related technologies.
 
 My technical expertise includes:
-- Front-End: React
 - Back-end: Django / Django Rest / Flask
 - Machine Learning: NumPy, Keras, Pandas, TensorFlow, Scikit-learn
 - Database: DynamoDB / PostgreSQL / MySQL / MongoDB
