@@ -25,7 +25,7 @@ When I was 13 years old, I started learning programming, and so far, I've been f
 In a nutshell, I can develop any web project related technologies.
 
 My technical expertise includes:
-- Back-end: Django / Django Rest / Flask
+- Back-end: Django / Django Rest / Flask /Odoo
 - Machine Learning: NumPy, Keras, Pandas, TensorFlow, Scikit-learn
 - Database: DynamoDB / PostgreSQL / MySQL / MongoDB
 - Could Platforms & Services: AWS / Heroku / GCP
