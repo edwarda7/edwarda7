@@ -18,7 +18,7 @@
 
 Hello and Welcome!
 
-I'm an expert full stack developer who mastered Python, Django and other technologies as well.
+I'm an expert full stack developer who mastered Python, Django, Odoo and other technologies as well.
 
 When I was 13 years old, I started learning programming, and so far, I've been focusing on Python development and relevant technologies.
 
